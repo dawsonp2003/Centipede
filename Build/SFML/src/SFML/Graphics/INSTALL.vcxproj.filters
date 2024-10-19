@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dawso\Documents\Programming\C++\SFML Centipede Game\Build\CMakeFiles\41cb1e4882105e6d3334793f67d576bd\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5719CF4C-F6BD-3A2C-A175-1A8028743C80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

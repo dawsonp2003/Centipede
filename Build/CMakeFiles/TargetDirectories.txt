@@ -1,0 +1,17 @@
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/CMakeFiles/Centipede.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/CMakeFiles/ALL_BUILD.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/System/CMakeFiles/sfml-system.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/System/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Main/CMakeFiles/sfml-main.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Main/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Window/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Network/CMakeFiles/INSTALL.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+C:/Users/dawso/Documents/Programming/C++/SFML Centipede Game/Build/SFML/src/SFML/Graphics/CMakeFiles/INSTALL.dir
